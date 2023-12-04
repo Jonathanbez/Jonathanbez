@@ -1,10 +1,12 @@
-### Hi there, im Jonathanbez👋
-You are the  <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> person who comes here!
-	
-```ruby 
-class Programmer
+### Hi there, I'm Jonathan Bez! 👋
+You are the [![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](https://github.com/Jonathanbez) person who comes here!
 
-	def initialize() 
+```ruby
+class Programmer
+  def initialize
+    # Your initialization code here
+  end
+end
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
@@ -36,7 +38,7 @@ class Programmer
 
 ## Wakatime Stats
 
-[![Wakatime Stats](https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg)](https://wakatime.com/@Jonathanbez)
+[![Wakatime Stats](https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg)](https://wakatime.com/@Jonathanbez){:height="75%" width="75%"}
 
 ## Programmer Class Example
 
