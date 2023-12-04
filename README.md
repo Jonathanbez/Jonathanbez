@@ -7,9 +7,6 @@ class Programmer
 end
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
-
-
 ## Languages and Tools
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="50%" height="50%" />
 
@@ -38,6 +35,7 @@ end
 </a>
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Jonathanbez&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&layout=compact&theme=gruvbox)
 
