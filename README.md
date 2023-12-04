@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, im Jonathanbez👋
+You are the  <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> person who comes here!
 	
 ```ruby 
 class Programmer
 
 	def initialize() 
 ```
-# Jonathan Bez - GitHub Profile
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
 
@@ -15,11 +15,17 @@ class Programmer
 
 ### High Skill
 
-- [Rails](https://stackshare.io/rails)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
+- [C](https://stackshare.io/c)
+  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
 
 - [Ruby](https://stackshare.io/ruby)
   <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
+
+- [Rails](https://stackshare.io/rails)
+  <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
+
+  - [Ubuntu](https://stackshare.io/ubuntu)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="java" width="40" height="40" />
 
 - [Git](https://stackshare.io/git)
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
@@ -27,14 +33,6 @@ class Programmer
 - [GitHub](https://stackshare.io/github)
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 
-- [Linux](https://stackshare.io/linux)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-
-- [Ubuntu](https://stackshare.io/ubuntu)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" />
-
-- [C](https://stackshare.io/c)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
 
 ## Wakatime Stats
 
@@ -67,7 +65,7 @@ programmer = Programmer.new('Jonathan')
 programmer.learn_language('Ruby')
 programmer.learn_language('C')
 programmer.show_languages
-
+```
 
 
 <!--
