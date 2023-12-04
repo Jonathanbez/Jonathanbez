@@ -11,7 +11,7 @@ end
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="80%" height="400px" />
 
 ## Languages and Tools
 
