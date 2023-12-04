@@ -9,11 +9,9 @@ class Programmer
 end
 ```
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="350px" />
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
 
 ## Languages and Tools
 
@@ -28,7 +26,7 @@ end
 - [Rails](https://stackshare.io/rails)
   <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
 
-- [Ubuntu](https://stackshare.io/ubuntu)
+  - [Ubuntu](https://stackshare.io/ubuntu)
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="java" width="40" height="40" />
 
 - [Git](https://stackshare.io/git)
@@ -36,8 +34,6 @@ end
 
 - [GitHub](https://stackshare.io/github)
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-
-</div>
 
 
 ## Wakatime Stats
