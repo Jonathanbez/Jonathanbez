@@ -38,8 +38,13 @@ end
 ## Wakatime Stats
 
 <a href="https://wakatime.com/@Jonathanbez" target="_blank">
-  <img src="https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg" alt="Wakatime Stats" width="800" height="400">
+  <img src="https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg" alt="Wakatime Stats" width="700" height="350">
 </a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jopnathanbez&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathanbez&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **Jonathanbez/Jonathanbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
