@@ -33,9 +33,40 @@ class Programmer
 - [Ubuntu](https://stackshare.io/ubuntu)
   <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" />
 
+- [C](https://stackshare.io/c)
+  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+
 ## Wakatime Stats
 
 [![Wakatime Stats](https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg)](https://wakatime.com/@Jonathanbez)
+
+## Programmer Class Example
+
+```ruby
+class Programmer
+  attr_accessor :name, :languages
+  
+  def initialize(name)
+    @name = name
+    @languages = []
+  end
+
+  def learn_language(language)
+    @languages << language
+    puts "#{@name} learned #{language}!"
+  end
+
+  def show_languages
+    puts "#{@name}'s programming languages:"
+    @languages.each { |lang| puts "- #{lang}" }
+  end
+end
+
+# Example Usage
+programmer = Programmer.new('Jonathan')
+programmer.learn_language('Ruby')
+programmer.learn_language('C')
+programmer.show_languages
 
 
 
