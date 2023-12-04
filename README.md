@@ -26,7 +26,7 @@ end
 - [Rails](https://stackshare.io/rails)
   <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
 
- - [Ubuntu](https://stackshare.io/ubuntu)
+- [Ubuntu](https://stackshare.io/ubuntu)
   <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
 
 - [Git](https://stackshare.io/git)
@@ -34,6 +34,7 @@ end
 
 - [GitHub](https://stackshare.io/github)
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+
 
 
 ## Wakatime Stats
