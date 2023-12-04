@@ -2,7 +2,7 @@
 	
  	class Programmer
 
-	def initialize() 
+		def initialize() 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
 
