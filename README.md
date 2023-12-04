@@ -26,8 +26,8 @@ end
 - [Rails](https://stackshare.io/rails)
   <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
 
-  - [Ubuntu](https://stackshare.io/ubuntu)
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="java" width="40" height="40" />
+ - [Ubuntu](https://stackshare.io/ubuntu)
+  <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
 
 - [Git](https://stackshare.io/git)
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
