@@ -39,8 +39,7 @@ end
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jonathanbez&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathanbez&theme=blue-green&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&theme=blue-green&hide_border=true&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&hide_progress=true)
 
 
 <!--
