@@ -21,14 +21,10 @@ class Programmer
         <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
-        <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
     </p>
 <figure>
-	<embed src="https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg"></embed></figure>
-```ruby 
-	end 
-end 
-```
+	<embed src="https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg"></embed>
+</figure>
 
 <!--
 **Jonathanbez/Jonathanbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
