@@ -15,7 +15,8 @@ end
 
 ## Languages and Tools
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="55%" height="55%" />
-### High Skill
+
+## High Skill
 
 - [C](https://stackshare.io/c)
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
