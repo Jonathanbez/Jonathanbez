@@ -6,6 +6,15 @@ class Programmer
   def initialize()
 end
 ```
+```c
+#include <unistd.h>
+
+int main() {
+    const char message[] = "Hello from C!\n";
+        write(1, message, sizeof(message) - 1);
+    return 0;
+}
+```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
 
 ## Languages and Tools
