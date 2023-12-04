@@ -13,7 +13,7 @@ end
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="350px" />
 
 ## Languages and Tools
 
@@ -38,7 +38,6 @@ end
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 
 </div>
-
 
 
 ## Wakatime Stats
