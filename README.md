@@ -11,7 +11,7 @@ end
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=dark)](https://git.io/streak-stats)
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="50%" height="400px" />
 
 ## Languages and Tools
 
@@ -38,7 +38,10 @@ end
 
 ## Wakatime Stats
 
-[![Wakatime Stats](https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg)](https://wakatime.com/@Jonathanbez){:height="75%" width="75%"}
+<a href="https://wakatime.com/@Jonathanbez" target="_blank">
+  <img src="https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg" alt="Wakatime Stats" width="400" height="200">
+</a>
+
 
 ## Programmer Class Example
 
