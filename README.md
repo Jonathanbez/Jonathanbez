@@ -3,9 +3,7 @@ You are the [![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](
 
 ```ruby
 class Programmer
-  def initialize
-    # Your initialization code here
-  end
+  def initialize()
 end
 ```
 
@@ -37,43 +35,11 @@ end
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 
 
-
 ## Wakatime Stats
 
 <a href="https://wakatime.com/@Jonathanbez" target="_blank">
   <img src="https://wakatime.com/share/@Jonathanbez/97cd7ca6-4089-4735-a220-b53131d649f5.svg" alt="Wakatime Stats" width="800" height="400">
 </a>
-
-
-## Programmer Class Example
-
-```ruby
-class Programmer
-  attr_accessor :name, :languages
-  
-  def initialize(name)
-    @name = name
-    @languages = []
-  end
-
-  def learn_language(language)
-    @languages << language
-    puts "#{@name} learned #{language}!"
-  end
-
-  def show_languages
-    puts "#{@name}'s programming languages:"
-    @languages.each { |lang| puts "- #{lang}" }
-  end
-end
-
-# Example Usage
-programmer = Programmer.new('Jonathan')
-programmer.learn_language('Ruby')
-programmer.learn_language('C')
-programmer.show_languages
-```
-
 
 <!--
 **Jonathanbez/Jonathanbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
