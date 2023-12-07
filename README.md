@@ -17,7 +17,7 @@ end
 
 jonathan = Dev.new('Jonathan', '29')
 jonathan.info
-# Output: The name of programmer is Jonathan, and your age is 29!
+#Output: The name of programmer is Jonathan, and your age is 29!
 ```
 ```c
 #include <unistd.h>
@@ -28,7 +28,7 @@ int main()
         write(1, message, sizeof(message) - 1);
     return 0;
 }
-# Output: Hello from C!
+//Output: Hello from C!
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
 
