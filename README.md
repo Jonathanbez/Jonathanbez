@@ -31,8 +31,9 @@ int main()
 //Output: Hello from C!
 ```
 ## Projets
+#### rate_app 
+Simple script for get convert or know the exchange rate of your currency
 
-# rate_app
 App for veri
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
