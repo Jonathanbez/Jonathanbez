@@ -32,7 +32,7 @@ int main()
 ```
 ## Projets
 #### rate_app 
-Simple script for get convert or know the exchange rate of your currency
+Simple script for get convert or know the exchange rate of your currency  
 [Rates_App](https://github.com/Jonathanbez/rates_app)
 
 
