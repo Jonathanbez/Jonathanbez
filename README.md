@@ -33,8 +33,7 @@ int main()
 ## Projets
 #### rate_app 
 Simple script for get convert or know the exchange rate of your currency
-
-App for veri
+https://github.com/Jonathanbez/rates_app
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
 
