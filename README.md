@@ -36,8 +36,8 @@ Simple script for get convert or know the exchange rate of your currency
 [Rates_App](https://github.com/Jonathanbez/rates_app)
 
 ### your_sign
+Script to know your sign based on your date of birth
 [Your_Sign](https://github.com/Jonathanbez/ruby_course_onebitcode/blob/master/projects/your_sign.rb)
-
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
