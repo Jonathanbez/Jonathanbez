@@ -43,7 +43,7 @@ Script to know your sign based on your date of birth
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
 
 ## Languages and Tools
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="45%" height="25%" />
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="42%" height="25%" />
 
 - [C](https://stackshare.io/c)
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
@@ -61,7 +61,7 @@ Script to know your sign based on your date of birth
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="36" height="35" />
 
 - [GitHub](https://stackshare.io/github)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="35" height="35" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="35" height="35" />  
   
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez)](https://github.com/anuraghazra/github-readme-stats)
 
