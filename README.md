@@ -46,22 +46,22 @@ Script to know your sign based on your date of birth
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="50%" height="40%" />
 
 - [C](https://stackshare.io/c)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
 
 - [Ruby](https://stackshare.io/ruby)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35" />
 
 - [Rails](https://stackshare.io/rails)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="35" height="35" />
 
 - [Ubuntu](https://stackshare.io/ubuntu)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35" height="35" />
 
 - [Git](https://stackshare.io/git)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="36" height="35" />
 
 - [GitHub](https://stackshare.io/github)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="35" height="35" />
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez)](https://github.com/anuraghazra/github-readme-stats)
 
