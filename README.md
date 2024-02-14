@@ -63,9 +63,9 @@ Script to know your sign based on your date of birth
 - [GitHub](https://stackshare.io/github)
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="35" height="35" />  
    
-[Wakatime](https://wakatime.com/)
-<img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" />
-## Wakatime Stats
+
+
+<img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" />## Wakatime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📊 GitHub Stats:
