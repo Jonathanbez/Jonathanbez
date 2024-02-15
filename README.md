@@ -6,12 +6,12 @@ You are the [![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](
   <tr>
     <td width="50%">
         <a href="https://github.com/Jonathanbez">
-          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jonathanbez&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jonathanbez&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
         </a>
       </td>
     <td width="50%">
         <a href="https://github.com/Jonathanbez">
-          <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=Jonathanbez&theme=radical" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=Jonathanbez&theme=great-gatsby" alt="Streak Stats" />
         </a>
     </td>
   </tr>
@@ -83,8 +83,8 @@ Script to know your sign based on your date of birth
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jonathanbez&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&layout=compact&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=Jonathanbez&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&layout=compact&theme=great-gatsby)
 
 
 <!--
