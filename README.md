@@ -26,12 +26,12 @@
 <table width="100%" align="center">
   </tr>
   <tr>
-    <td width="40%"  align="center">
+    <td width="45%"  align="center">
         <a href="https://github.com/Jonathanbez">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&layout=compact&theme=great-gatsby&langs_count=10" />
         </a>
     </td>
-    <td width="60%"  align="center">
+    <td width="55%"  align="center">
         <a href="https://github.com/Jonathanbez">
           <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez&layout=compact&theme=great-gatsby&langs_count=10" />
         </a>
