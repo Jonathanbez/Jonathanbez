@@ -1,5 +1,4 @@
 ### Hi there, I'm Jonathan Bez! 👋
-You are the [![Profile Views](https://visitcount.itsvg.in/api?id=Jonathanbez&icon=0&color=0)](https://github.com/Jonathanbez) person who comes here!
 <div align="center">
   <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
 <img height="20" src="https://visitcount.itsvg.in/api?id=Jonathanbez&icon=0&color=0"/>
