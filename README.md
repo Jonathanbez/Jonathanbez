@@ -22,13 +22,13 @@ You are the [![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](
   </tr>
   <tr>
     <td width="40%"  align="center">
-        <a href="https://github.com/RanitManik">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
+        <a href="https://github.com/Jonathanbez">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&layout=compact&theme=great-gatsby&langs_count=10" />
         </a>
     </td>
     <td width="60%"  align="center">
-        <a href="https://github.com/RanitManik">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
+        <a href="https://github.com/Jonathanbez">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez&layout=compact&theme=great-gatsby&langs_count=10" />
         </a>
       </td>
   </tr>
