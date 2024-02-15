@@ -1,4 +1,4 @@
-  ### Hi there, I'm Jonathan Bez! 👋 
+### Hi there, I'm Jonathan Bez! 👋 
 <div align="center">
   
   <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
@@ -103,11 +103,6 @@ Script to know your sign based on your date of birth
           
 ## <img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" /> Wakatime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jonathanbez&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbez&layout=compact&theme=great-gatsby)
-
 
 <!--
 **Jonathanbez/Jonathanbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
