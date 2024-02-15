@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan Bez! 👋 
+#### Hi there, I'm Jonathan Bez! 👋 
 <div align="center">
   
   <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
@@ -68,7 +68,7 @@ int main()
 }
 //Output: Hello from C!
 ```
-## Projets
+### Projets
 #### rate_app 
 Simple script for get convert or know the exchange rate of your currency  
 [Rates_App](https://github.com/Jonathanbez/rates_app)
@@ -76,9 +76,6 @@ Simple script for get convert or know the exchange rate of your currency
 #### your_sign
 Script to know your sign based on your date of birth  
 [Your_Sign](https://github.com/Jonathanbez/ruby_course_onebitcode/blob/master/projects/your_sign.rb)
-
-## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jonathanbez&theme=gruvbox)](https://git.io/streak-stats)
 
 ## Languages and Tools
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="43.5%" height="25%" />      
