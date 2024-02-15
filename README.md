@@ -16,6 +16,23 @@ You are the [![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](
     </td>
   </tr>
 </table>
+<h2 align="center">🧑‍💻 Language Stats 🧑‍💻</h2>
+
+<table width="100%" align="center">
+  </tr>
+  <tr>
+    <td width="40%"  align="center">
+        <a href="https://github.com/RanitManik">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
+        </a>
+    </td>
+    <td width="60%"  align="center">
+        <a href="https://github.com/RanitManik">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
+        </a>
+      </td>
+  </tr>
+</table>
 
 ```ruby
 class Dev
