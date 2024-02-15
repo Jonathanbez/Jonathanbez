@@ -1,5 +1,21 @@
 ### Hi there, I'm Jonathan Bez! 👋
 You are the [![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](https://github.com/Jonathanbez) person who comes here!
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+        <a href="https://github.com/Jonathanbez">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jonathanbez&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+        </a>
+      </td>
+    <td width="50%">
+        <a href="https://github.com/Jonathanbez">
+          <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=Jonathanbez&theme=radical" alt="Streak Stats" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 ```ruby
 class Dev
