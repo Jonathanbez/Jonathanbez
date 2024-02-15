@@ -4,10 +4,6 @@
 <img height="20" src="https://visitcount.itsvg.in/api?id=Jonathanbez&label=Profile%20Views&pretty=false"/>
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Jonathanbez&label=Profile%20Views&pretty=false" />
-</a>
-
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
