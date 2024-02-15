@@ -1,8 +1,12 @@
 ### Hi there, I'm Jonathan Bez! 👋
 <div align="center">
   <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
-<img height="20" src="https://visitcount.itsvg.in/api?id=Jonathanbez&icon=0&color=0"/>
+<img height="20" src="https://visitcount.itsvg.in/api?id=Jonathanbez&label=Profile%20Views&pretty=false"/>
 </div>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Jonathanbez&label=Profile%20Views&pretty=false" />
+</a>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
