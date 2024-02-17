@@ -4,6 +4,7 @@
   <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
 <img height="20" src="https://visitcount.itsvg.in/api?id=Jonathanbez&label=Profile%20Views&pretty=false"/>
 </div>
+[![Profile Views](https://komarev.com/ghpvc/?username=Jonathanbez)](https://github.com/Jonathanbez)
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
