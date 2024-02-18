@@ -77,7 +77,7 @@ Simple script for get convert or know the exchange rate of your currency
 Script to know your sign based on your date of birth  
 [Your_Sign](https://github.com/Jonathanbez/ruby_course_onebitcode/blob/master/projects/your_sign.rb)
 
-<h2 align="center">💻 Tech Stack 💻</h2>
+<h2 align="center">💻 Tech Stack / Languages and Tools 💻</h2>
 
 
 <table width="100%" align="center">
@@ -111,54 +111,8 @@ Script to know your sign based on your date of birth
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" />
     </td>
-    </td>
-    </td>
   </tr>
-  <tr>
-    <td align="center">
-        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
-    </td>
-    <td align="center">
-        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/5e63dbf6-bb00-4587-b157-156efd62574d" />
-    </td>
-    <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
-    </td>
-    <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
-    </td>
-    <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/180px-Adobe_After_Effects_CC_icon.svg.png" />
-    </td>
-    <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
-    </td>
-    <td align="center">
-        <img height="40" align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" />
-    </td>
-  </tr>
-</table>
-
-## Languages and Tools
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="43.5%" height="25%" />      
-
-- [C](https://stackshare.io/c)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="35" height="35" />
-
-- [Ruby](https://stackshare.io/ruby)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35" />
-
-- [Rails](https://stackshare.io/rails)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="35" height="35" />
-
-- [Ubuntu](https://stackshare.io/ubuntu)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35" height="35" />
-
-- [Git](https://stackshare.io/git)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="36" height="35" />
-
-- [GitHub](https://stackshare.io/github)
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="35" height="35" />        
+</table>   
           
 ## <img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" /> Wakatime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanbez&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
