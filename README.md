@@ -105,13 +105,14 @@ Script to know your sign based on your date of birth
       <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" />
     </td>
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
+    </td>
+    
     </td>
     </td>
   </tr>
   <tr>
-    <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" />
-    </td>
     <td align="center">
         <img height="40" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
     </td>
