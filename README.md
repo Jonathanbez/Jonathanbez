@@ -89,6 +89,9 @@ Script to know your sign based on your date of birth
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
     </td>
     <td align="center">
+        <img height="40" align="center" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" />
+    </td>
+    <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
     </td>
     <td align="center">
@@ -97,9 +100,7 @@ Script to know your sign based on your date of birth
         <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" />
     </td>
-    <td align="center">
-        <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/d4317004-4b42-442b-9ee7-492015917790" />
-    </td>
+   
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
     </td>
