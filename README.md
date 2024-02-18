@@ -5,9 +5,10 @@
 <img height="20" src="https://komarev.com/ghpvc/?username=Jonathanbez"/>
 </div>
 
-<h2 align="center">📊 GitHub Stats 📊
-<img srr="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /> </h2>
 
+<h2 align="center">📊 GitHub Stats 📊 <img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" /> </h2>
+<img srr="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /> 
+## <img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" /> Wakatime Stats
 <table width="100%">
   <tr>
     <td width="50%">
