@@ -101,7 +101,7 @@ Script to know your sign based on your date of birth
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" />
     </td>
     <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
     </td>
     </td>
   </tr>
