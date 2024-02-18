@@ -7,7 +7,6 @@
 
 
 <h2 align="center">📊 GitHub Stats 📊 <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40" height="40" /> </h2>
-<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /> 
 
 <table width="100%">
   <tr>
