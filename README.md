@@ -5,7 +5,8 @@
 <img height="20" src="https://komarev.com/ghpvc/?username=Jonathanbez"/>
 </div>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊
+<img srr="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /> </h2>
 
 <table width="100%">
   <tr>
