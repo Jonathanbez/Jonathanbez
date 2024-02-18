@@ -108,14 +108,14 @@ Script to know your sign based on your date of birth
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
     </td>
-    
+    <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" />
+    </td>
     </td>
     </td>
   </tr>
   <tr>
-    <td align="center">
-        <img height="40" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
-    </td>
+    
     <td align="center">
         <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
     </td>
