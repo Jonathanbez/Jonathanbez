@@ -115,7 +115,6 @@ Script to know your sign based on your date of birth
     </td>
   </tr>
   <tr>
-    
     <td align="center">
         <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/50a7aebc-dca5-4693-907a-f0b46637a04f" />
     </td>
