@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="center">📊 GitHub Stats 📊 <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40" height="40" /> </h2>
+<h2 align="center">📊 <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40" height="40" /> GitHub Stats <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40" height="40" /> 📊</h2>
 
 <table width="100%">
   <tr>
