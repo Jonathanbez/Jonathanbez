@@ -6,9 +6,9 @@
 </div>
 
 
-<h2 align="center">📊 GitHub Stats 📊 <img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" /> </h2>
-<img srr="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /> 
-## <img src="https://wakatime.com/safari-pinned-tab.svg" width="40" height="40" /> Wakatime Stats
+<h2 align="center">📊 GitHub Stats 📊 <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40" height="40" /> </h2>
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /> 
+
 <table width="100%">
   <tr>
     <td width="50%">
