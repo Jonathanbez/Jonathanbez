@@ -102,12 +102,15 @@ Script to know your sign based on your date of birth
     </td>
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
+      <td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" />
+    </td>
     </td>
     </td>
   </tr>
   <tr>
     <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" />
     </td>
     <td align="center">
         <img height="40" align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" />
