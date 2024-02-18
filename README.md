@@ -95,7 +95,7 @@ Script to know your sign based on your date of birth
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" />
     </td>
         <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" />
     </td>
     <td align="center">
         <img height="40" align="center" src="https://github.com/RanitManik/ranitmanik/assets/138437760/d4317004-4b42-442b-9ee7-492015917790" />
