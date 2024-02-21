@@ -61,6 +61,17 @@ jonathan.info
 ```c
 #include <unistd.h>
 
+void	ft_putchar(char c)
+{
+	write(1, &c, 1);
+}
+
+/*int	main(void)
+{
+	ft_putchar('j');
+	return(0);
+}*/
+
 int main()
 {
     const char message[] = "Hello from C!\n";
