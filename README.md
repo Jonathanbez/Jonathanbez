@@ -61,13 +61,22 @@ jonathan.info
 ```c
 #include <unistd.h>
 
-int main()
+void ft_putstr(char *strc)
 {
-    const char message[] = "Hello from C!\n";
-        write(1, message, sizeof(message) - 1);
-    return 0;
+	while(*strc != '\0')
+	{
+		write(1, strc, 1);
+		strc++;
+	}
 }
-//Output: Hello from C!
+
+int main(void)
+{
+	ft_putstr("Hello Word of programming, im dev Jonathan!\n");
+	ft_putstr("\n");
+	return(0);
+}
+//Output: Hello Word of programming, im dev Jonathan!
 ```
 ### Projets
 #### rate_app 
