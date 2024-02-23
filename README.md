@@ -115,14 +115,15 @@ Script to know your sign based on your date of birth
       <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" />
     </td>
+    </td>
+	<td aligh="center">
+	<img height="40" aligh="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
+    </td>
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
     </td>
     <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" />
-    </td>
-	  <td align="center">
-		<img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />	    
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" />    
     </td>
   </tr>
 </table>   
