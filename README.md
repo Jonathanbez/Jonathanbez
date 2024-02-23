@@ -122,7 +122,7 @@ Script to know your sign based on your date of birth
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" />
     </td>
 	  <td align="center">
-		<img height="40" align="center" src="https://commons.wikimedia.org/wiki/File:Vimlogo.svg" />	    
+		<img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />	    
     </td>
   </tr>
 </table>   
