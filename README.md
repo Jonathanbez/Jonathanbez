@@ -98,14 +98,14 @@ Script to know your sign based on your date of birth
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
     </td>
-     <td align="center">
-        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-    </td>
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
     </td>
     <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" />
+    </td>
+	<td align="center">
+        <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
     </td>
         <td align="center">
         <img height="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" />
