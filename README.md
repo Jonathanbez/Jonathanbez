@@ -81,7 +81,7 @@ int main(void)
 ### Projets
 
 #### simple_translator
-Simple script to translate sentences in some languages
+Simple script to translate sentences in some languages   
 [Simple Translator](https://github.com/Jonathanbez/simple_translator)
 
 #### rate_app 
