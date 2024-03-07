@@ -82,7 +82,7 @@ int main(void)
 
 #### simple_translator
 Simple script to translate sentences in some languages
-[Rates_App](https://github.com/Jonathanbez/simple_translator)
+[Simple Translator](https://github.com/Jonathanbez/simple_translator)
 
 #### rate_app 
 Simple script for get convert or know the exchange rate of your currency  
