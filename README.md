@@ -79,6 +79,11 @@ int main(void)
 //Output: Hello Word of programming, im dev Jonathan!
 ```
 ### Projets
+
+#### simple_translator
+Simple script to translate sentences in some languages
+[Rates_App](https://github.com/Jonathanbez/simple_translator)
+
 #### rate_app 
 Simple script for get convert or know the exchange rate of your currency  
 [Rates_App](https://github.com/Jonathanbez/rates_app)
