@@ -1,4 +1,4 @@
-#### Hi there, I'm Jonathan Bez! 👋 
+## Hi there, I'm Jonathan Bez! 👋 
 <div align="center">
   
   <img height="20" src="https://wakatime.com/badge/user/1660ecce-b966-4a28-8c5f-ae0c1eec3a0c.svg"/>
