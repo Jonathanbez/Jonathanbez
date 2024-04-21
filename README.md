@@ -132,7 +132,7 @@ Script to know your sign based on your date of birth
     </td>
   </tr>
 </table>  
-
+### Contact whit me: 
  <a href="https://www.linkedin.com/in/jonathan-bezerra-b483b6148/">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
